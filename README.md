@@ -31,7 +31,7 @@ This project simulates a real-world FMCG market research database covering **6 m
 
 | Week | Topic                    | Skills Learned                              |
 |------|--------------------------|---------------------------------------------|
-| 1    | Schema & Basics          | CREATE, INSERT, SELECT, WHERE, ORDER BY     |
+| 1    | Schema & Basics          | CREATE, INSERT, SELECT, WHERE, ORDER BY     |WIP
 | 2    | Filtering & Exploration  | LIKE, IN, BETWEEN, DISTINCT, LIMIT          |
 | 3    | Aggregations             | COUNT, SUM, AVG, GROUP BY, HAVING           |
 | 4    | JOINs & Relationships    | INNER JOIN, LEFT JOIN, Subqueries, CTEs     |
