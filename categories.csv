@@ -1,0 +1,13 @@
+category_id,category_name,segment
+1,"Shampoo & Conditioner","Personal Care"
+2,"Soap & Bodywash","Personal Care"
+3,Toothpaste,"Personal Care"
+4,Skincare,"Personal Care"
+5,"Biscuits & Snacks","Food & Beverages"
+6,"Noodles & Pasta","Food & Beverages"
+7,"Tea & Coffee","Food & Beverages"
+8,"Juices & Drinks","Food & Beverages"
+9,Detergent,"Home Care"
+10,Dishwash,"Home Care"
+11,"Floor Cleaner","Home Care"
+12,"Cooking Oil","Food & Beverages"

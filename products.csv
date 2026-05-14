@@ -1,0 +1,41 @@
+product_id,product_name,brand,category_id,unit_price,pack_size
+1,"Dove Shampoo",HUL,1,185.0,340ml
+2,"Head & Shoulders",P&G,1,199.0,340ml
+3,"Clinic Plus Shampoo",HUL,1,99.0,175ml
+4,"Pantene Pro-V",P&G,1,249.0,340ml
+5,"Lux Soap",HUL,2,45.0,100g
+6,"Dettol Soap",Reckitt,2,55.0,100g
+7,"Pears Soap",HUL,2,65.0,125g
+8,"Dove Body Bar",HUL,2,89.0,100g
+9,"Colgate Strong Teeth",Colgate,3,89.0,200g
+10,Pepsodent,HUL,3,75.0,200g
+11,Sensodyne,Haleon,3,199.0,150g
+12,Closeup,HUL,3,65.0,150g
+13,"Ponds Cold Cream",HUL,4,145.0,100ml
+14,"Lakme Face Cream",HUL,4,249.0,50ml
+15,"Nivea Moisturiser",Beiersdorf,4,299.0,75ml
+16,Parle-G,Parle,5,10.0,100g
+17,"Monaco Biscuits",Britannia,5,25.0,200g
+18,"Lays Chips",PepsiCo,5,20.0,50g
+19,"Good Day Butter",Britannia,5,35.0,200g
+20,"Maggi Noodles",Nestle,6,14.0,70g
+21,"Top Ramen",Nissin,6,12.0,70g
+22,"Knorr Pasta",HUL,6,50.0,100g
+23,"Tata Tea Gold",Tata,7,250.0,500g
+24,"Red Label Tea",HUL,7,235.0,500g
+25,"Bru Instant Coffee",HUL,7,199.0,200g
+26,"Nescafe Classic",Nestle,7,350.0,200g
+27,"Tropicana Orange",PepsiCo,8,60.0,1L
+28,"Real Fruit Juice",Dabur,8,80.0,1L
+29,"Maaza Mango",Coca-Cola,8,20.0,250ml
+30,"Surf Excel",HUL,9,220.0,1kg
+31,"Ariel Powder",P&G,9,245.0,1kg
+32,"Tide Plus",P&G,9,190.0,1kg
+33,"Vim Dishwash Bar",HUL,10,38.0,200g
+34,"Pril Liquid",Henkel,10,99.0,500ml
+35,"Lizol Floor Cleaner",Reckitt,11,149.0,975ml
+36,"Colin Glass Cleaner",Reckitt,11,129.0,500ml
+37,"Fortune Sunflower Oil",Adani,12,180.0,1L
+38,"Saffola Gold Oil",Marico,12,210.0,1L
+39,"Aashirvaad Atta",ITC,5,65.0,1kg
+40,"Dove Conditioner",HUL,1,175.0,180ml

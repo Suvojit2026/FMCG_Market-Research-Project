@@ -1,0 +1,26 @@
+customer_id,customer_name,gender,age_group,city,region_id,income_tier
+1,"Priya Sharma",F,26-35,Mumbai,1,High
+2,"Rohan Mehta",M,26-35,Mumbai,1,Mid
+3,"Ananya Iyer",F,18-25,Pune,2,Mid
+4,"Vikram Singh",M,36-50,Delhi,3,High
+5,"Sunita Patel",F,50+,Ahmedabad,9,Mid
+6,"Karthik Rao",M,26-35,Bengaluru,5,High
+7,"Deepa Nair",F,36-50,Chennai,6,Mid
+8,"Amit Bose",M,18-25,Kolkata,7,Low
+9,"Meena Pillai",F,26-35,Hyderabad,10,Mid
+10,"Suresh Kumar",M,50+,Chennai,6,Low
+11,"Kavita Joshi",F,36-50,Jaipur,4,Mid
+12,"Rahul Gupta",M,26-35,Delhi,3,High
+13,"Fatima Shaikh",F,18-25,Mumbai,1,Low
+14,"Arjun Reddy",M,36-50,Hyderabad,10,High
+15,"Pooja Verma",F,26-35,Jaipur,4,Mid
+16,"Nikhil Das",M,18-25,Kolkata,7,Low
+17,"Lakshmi Menon",F,50+,Bengaluru,5,High
+18,"Rajesh Yadav",M,36-50,Bhubaneswar,8,Mid
+19,"Smita Kulkarni",F,26-35,Pune,2,Mid
+20,"Dev Chauhan",M,26-35,Ahmedabad,9,High
+21,"Neha Srivastava",F,18-25,Delhi,3,Mid
+22,"Sanjay Nayak",M,50+,Bhubaneswar,8,Low
+23,"Rekha Ghosh",F,36-50,Kolkata,7,Mid
+24,"Tushar Patil",M,26-35,Pune,2,High
+25,"Geetha Swamy",F,50+,Chennai,6,Mid
